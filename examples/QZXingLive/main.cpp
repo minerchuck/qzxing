@@ -4,7 +4,7 @@
 
 #include <QDebug>
 
-#include <qzxing.h>
+#include <QZXing.h>
 #include <Qt>
 #include "QZXingFilter.h"
 
